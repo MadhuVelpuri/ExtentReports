@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-*.xml linguist-language=Java
+*.html linguist-language=Java

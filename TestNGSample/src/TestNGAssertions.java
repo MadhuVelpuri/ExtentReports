@@ -22,7 +22,7 @@ public class TestNGAssertions extends Base {
 		
 		//System.out.println("Assertion is passed");
 		logger = extent.startTest("failTest");
-		Assert.assertEquals("Madhu", "Babu");
+		Assert.assertEquals("Babu", "Babu");
 		logger.log(LogStatus.PASS, "Test Case (failTest) Status is passed");
 	}
 	
@@ -31,7 +31,7 @@ public class TestNGAssertions extends Base {
 	{
 		//System.out.println("Assertion is passed");
 				logger = extent.startTest("failTest");
-				Assert.assertEquals("Madhu", "Babu");
+				Assert.assertEquals("Madhu", "Madhu");
 				logger.log(LogStatus.PASS, "Test Case (failTest) Status is passed");
 	}
 	

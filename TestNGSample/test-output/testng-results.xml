@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="2" total="3" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="664" started-at="2018-01-12T05:52:03Z" finished-at="2018-01-12T05:52:03Z">
+  <suite name="Suite" duration-ms="581" started-at="2018-01-12T09:48:18Z" finished-at="2018-01-12T09:48:19Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="664" started-at="2018-01-12T05:52:03Z" finished-at="2018-01-12T05:52:03Z">
+    <test name="Test" duration-ms="581" started-at="2018-01-12T09:48:18Z" finished-at="2018-01-12T09:48:19Z">
       <class name="TestNGAssertions">
-        <test-method status="PASS" signature="startReport()[pri:0, instance:TestNGAssertions@591f989e]" name="startReport" is-config="true" duration-ms="208" started-at="2018-01-12T11:22:03Z" finished-at="2018-01-12T11:22:03Z">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:TestNGAssertions@591f989e]" name="startReport" is-config="true" duration-ms="190" started-at="2018-01-12T15:18:18Z" finished-at="2018-01-12T15:18:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startReport -->
-        <test-method status="PASS" signature="testAssert()[pri:0, instance:TestNGAssertions@591f989e]" name="testAssert" duration-ms="10" started-at="2018-01-12T11:22:03Z" finished-at="2018-01-12T11:22:03Z">
+        <test-method status="PASS" signature="testAssert()[pri:0, instance:TestNGAssertions@591f989e]" name="testAssert" duration-ms="9" started-at="2018-01-12T15:18:18Z" finished-at="2018-01-12T15:18:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAssert -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestNGAssertions@591f989e]" name="getResult" is-config="true" duration-ms="3" started-at="2018-01-12T11:22:03Z" finished-at="2018-01-12T11:22:03Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestNGAssertions@591f989e]" name="getResult" is-config="true" duration-ms="4" started-at="2018-01-12T15:18:18Z" finished-at="2018-01-12T15:18:18Z">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="FAIL" signature="testAssert1()[pri:0, instance:TestNGAssertions@591f989e]" name="testAssert1" duration-ms="2" started-at="2018-01-12T11:22:03Z" finished-at="2018-01-12T11:22:03Z">
+        <test-method status="FAIL" signature="testAssert1()[pri:0, instance:TestNGAssertions@591f989e]" name="testAssert1" duration-ms="4" started-at="2018-01-12T15:18:18Z" finished-at="2018-01-12T15:18:18Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [Babu] but found [Madhu]]]>
@@ -69,7 +69,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAssert1 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestNGAssertions@591f989e]" name="getResult" is-config="true" duration-ms="1" started-at="2018-01-12T11:22:03Z" finished-at="2018-01-12T11:22:03Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestNGAssertions@591f989e]" name="getResult" is-config="true" duration-ms="0" started-at="2018-01-12T15:18:18Z" finished-at="2018-01-12T15:18:18Z">
           <params>
             <param index="0">
               <value>
@@ -80,7 +80,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="FAIL" signature="testAssert2()[pri:0, instance:TestNGAssertions@591f989e]" name="testAssert2" duration-ms="1" started-at="2018-01-12T11:22:03Z" finished-at="2018-01-12T11:22:03Z">
+        <test-method status="FAIL" signature="testAssert2()[pri:0, instance:TestNGAssertions@591f989e]" name="testAssert2" duration-ms="1" started-at="2018-01-12T15:18:18Z" finished-at="2018-01-12T15:18:18Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [Babu] but found [Madhu]]]>
@@ -123,7 +123,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAssert2 -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestNGAssertions@591f989e]" name="getResult" is-config="true" duration-ms="0" started-at="2018-01-12T11:22:03Z" finished-at="2018-01-12T11:22:03Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestNGAssertions@591f989e]" name="getResult" is-config="true" duration-ms="0" started-at="2018-01-12T15:18:18Z" finished-at="2018-01-12T15:18:18Z">
           <params>
             <param index="0">
               <value>
@@ -134,7 +134,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="endReport()[pri:0, instance:TestNGAssertions@591f989e]" name="endReport" is-config="true" duration-ms="419" started-at="2018-01-12T11:22:03Z" finished-at="2018-01-12T11:22:03Z">
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestNGAssertions@591f989e]" name="endReport" is-config="true" duration-ms="343" started-at="2018-01-12T15:18:18Z" finished-at="2018-01-12T15:18:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->

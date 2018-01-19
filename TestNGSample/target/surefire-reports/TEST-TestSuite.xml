@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="0.012" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="teamcity.agent.dotnet.build_id" value="9"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="teamcity.buildConfName" value="ExtentSample"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="agent.home.dir" value="C:\TeamCity\buildAgent"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="teamcity.build.properties.file" value="C:\TeamCity\buildAgent\temp\buildTmp\teamcity.build472176612587076679.properties"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_151\jre\classes"/>
+    <property name="build.number" value="6"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="agent.name" value="PRINHYLTPDL0519"/>
+    <property name="teamcity.dotnet.nunitlauncher2.0" value="C:\TeamCity\buildAgent\plugins\dotnetPlugin\bin\JetBrains.BuildServer.NUnitLauncher2.0.exe"/>
+    <property name="java.runtime.version" value="1.8.0_151-b12"/>
+    <property name="teamcity.auth.password" value="E7qdWToSx0ZEjIRLs265Yd2NP63SRysl"/>
+    <property name="teamcity.dotnet.nunitlauncher1.1" value="C:\TeamCity\buildAgent\plugins\dotnetPlugin\bin\JetBrains.BuildServer.NUnitLauncher1.1.exe"/>
+    <property name="teamcity.runner.properties.file" value="C:\TeamCity\buildAgent\temp\buildTmp\teamcity.runner4725215811834238647.properties"/>
+    <property name="agent.ownPort" value="9090"/>
+    <property name="user.name" value="PRINHYLTPDL0519$"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="teamcity.build.workingDir" value="C:\TeamCity\buildAgent\work\a8aa684780920ed7"/>
+    <property name="maven.repo.local" value="C:/Windows/system32/config/systemprofile/.m2/repository"/>
+    <property name="teamcity.version" value="2017.2.1 (build 50732)"/>
+    <property name="teamcity.dotnet.nunitaddin" value="C:\TeamCity\buildAgent\plugins\dotnetPlugin\bin\JetBrains.TeamCity.NUnitAddin-NUnit"/>
+    <property name="user.language" value="en"/>
+    <property name="teamcity.build.id" value="9"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin"/>
+    <property name="classworlds.conf" value="C:\TeamCity\buildAgent\temp\buildTmp\teamcity.m2.conf"/>
+    <property name="teamcity.maven.watcher.home" value="C:\TeamCity\buildAgent\plugins\mavenPlugin\maven-watcher"/>
+    <property name="java.version" value="1.8.0_151"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="teamcity.dotnet.platform" value="C:\TeamCity\buildAgent\plugins\dotnetPlugin\bin\JetBrains.TeamCity.PlatformProcessRunner.1.1.exe"/>
+    <property name="teamcity.buildType.id" value="ExtentReports_Build"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\endorsed"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="user.country" value="US"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_151\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="teamcity.auth.userId" value="TeamCityBuildId=9"/>
+    <property name="os.version" value="10.0"/>
+    <property name="teamcity.dotnet.nunitlauncher.msbuild.task" value="C:\TeamCity\buildAgent\plugins\dotnetPlugin\bin\JetBrains.BuildServer.MSBuildLoggers.dll"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.151-b12"/>
+    <property name="user.variant" value=""/>
+    <property name="build.vcs.number.ExtentReports_HttpsGithubComMadhuVelpuriExtentReportsRefsHeadsMaster" value="387c98547d3cd9771980cadd8162a68d6aba694f"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="user.script" value=""/>
+    <property name="teamcity.agent.cpuBenchmark" value="361"/>
+    <property name="user.home" value="C:\Windows\system32\config\systemprofile"/>
+    <property name="teamcity.configuration.properties.file" value="C:\TeamCity\buildAgent\temp\buildTmp\teamcity.config4763582276193909535.properties"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_151\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\TeamCity\buildAgent\tools\maven3\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_151\bin;%Java_Home%;D:\gradle-3.5\bin;C:\Program Files\Git\cmd;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="teamcity.projectName" value="ExtentReports"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\TeamCity\buildAgent\tools\maven3"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -f C:\Users\madhubabuv\eclipse-workspace\TestNGSample\pom.xml -B test"/>
+    <property name="java.class.path" value="C:\TeamCity\buildAgent\tools\maven3\boot\plexus-classworlds-2.4.jar;"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="build.vcs.number.1" value="387c98547d3cd9771980cadd8162a68d6aba694f"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="teamcity.dotnet.nunitlauncher" value="C:\TeamCity\buildAgent\plugins\dotnetPlugin\bin\JetBrains.BuildServer.NUnitLauncher.exe"/>
+    <property name="agent.work.dir" value="C:\TeamCity\buildAgent\work"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.io.tmpdir" value="C:\TeamCity\buildAgent\temp\buildTmp"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\TeamCity\buildAgent\work\a8aa684780920ed7"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="build.vcs.number" value="387c98547d3cd9771980cadd8162a68d6aba694f"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="teamcity.build.checkoutDir" value="C:\TeamCity\buildAgent\work\a8aa684780920ed7"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="C:\TeamCity\buildAgent\work\a8aa684780920ed7"/>
+    <property name="teamcity.build.changedFiles.file" value="C:\TeamCity\buildAgent\temp\buildTmp\changedFiles3167457715302460637.txt"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="teamcity.tests.recentlyFailedTests.file" value="C:\TeamCity\buildAgent\temp\buildTmp\testsToRunFirst2827161082785878949.txt"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="teamcity.agent.dotnet.agent_url" value="http://localhost:9090/RPC2"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="com.jetbrains.maven.watcher.report.file" value="C:\TeamCity\buildAgent\temp\buildTmp\maven-build-info.xml"/>
+    <property name="teamcity.dotnet.nunitlauncher2.0.vsts" value="C:\TeamCity\buildAgent\plugins\dotnetPlugin\bin\JetBrains.BuildServer.NUnitLauncher2.0.VSTS.exe"/>
+    <property name="teamcity.build.tempDir" value="C:\TeamCity\buildAgent\temp\buildTmp"/>
+  </properties>
+  <testcase name="testAssert" classname="TestNGAssertions" time="0.011"/>
+  <testcase name="testAssert1" classname="TestNGAssertions" time="0.001"/>
+  <testcase name="testAssert2" classname="TestNGAssertions" time="0"/>
+</testsuite>

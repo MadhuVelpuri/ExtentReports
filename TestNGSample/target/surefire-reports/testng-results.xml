@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="869" started-at="2018-01-19T09:41:20Z" finished-at="2018-01-19T09:41:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="869" started-at="2018-01-19T09:41:20Z" finished-at="2018-01-19T09:41:21Z">
+      <class name="TestNGAssertions">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:TestNGAssertions@3aa9e816]" name="startReport" is-config="true" duration-ms="378" started-at="2018-01-19T15:11:20Z" finished-at="2018-01-19T15:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="testAssert()[pri:0, instance:TestNGAssertions@3aa9e816]" name="testAssert" duration-ms="11" started-at="2018-01-19T15:11:21Z" finished-at="2018-01-19T15:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAssert -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestNGAssertions@3aa9e816]" name="getResult" is-config="true" duration-ms="3" started-at="2018-01-19T15:11:21Z" finished-at="2018-01-19T15:11:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAssert status=SUCCESS method=TestNGAssertions.testAssert()[pri:0, instance:TestNGAssertions@3aa9e816] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testAssert1()[pri:0, instance:TestNGAssertions@3aa9e816]" name="testAssert1" duration-ms="1" started-at="2018-01-19T15:11:21Z" finished-at="2018-01-19T15:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAssert1 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestNGAssertions@3aa9e816]" name="getResult" is-config="true" duration-ms="0" started-at="2018-01-19T15:11:21Z" finished-at="2018-01-19T15:11:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAssert1 status=SUCCESS method=TestNGAssertions.testAssert1()[pri:0, instance:TestNGAssertions@3aa9e816] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testAssert2()[pri:0, instance:TestNGAssertions@3aa9e816]" name="testAssert2" duration-ms="0" started-at="2018-01-19T15:11:21Z" finished-at="2018-01-19T15:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAssert2 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestNGAssertions@3aa9e816]" name="getResult" is-config="true" duration-ms="0" started-at="2018-01-19T15:11:21Z" finished-at="2018-01-19T15:11:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAssert2 status=SUCCESS method=TestNGAssertions.testAssert2()[pri:0, instance:TestNGAssertions@3aa9e816] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TestNGAssertions@3aa9e816]" name="endReport" is-config="true" duration-ms="458" started-at="2018-01-19T15:11:21Z" finished-at="2018-01-19T15:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- TestNGAssertions -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
